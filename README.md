@@ -28,9 +28,9 @@ Examples:
 ### Requirements
 
 Requirements:
-	NodeJS, DiscordJS, dark-sky, Youtube API access, axios.
+	NodeJS, DiscordJS, dark-sky, Google Geo API, axios.
 
-The API keys for dark-sky, Youtube and discord can be hard coded, if you want.
+The API keys for dark-sky, Geo and discord can be hard coded, if you want.
 I recommend them being in a separate file. 
 
 ### Roadmap

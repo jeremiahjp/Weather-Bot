@@ -10,7 +10,6 @@ const config = require("./config.json");
 const darkSky = require('dark-sky');
 const darksky = new darkSky(config.darkSky);
 const geoApiKey = config.google_geo_api;
-const YTkey = config.youtube_key_1;
 const axios = require('axios');
 
 function getRespectiveTimezoneTime(timezone) {
