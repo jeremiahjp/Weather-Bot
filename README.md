@@ -8,7 +8,7 @@
 
 ### About
 
-Just a bot in Discord to provide weather information for a specified location.
+Just a NodeJS bot in Discord to provide weather information for a specified location.
 
 ### Usage
 
@@ -28,7 +28,7 @@ Examples:
 ### Requirements
 
 Requirements:
-	DiscordJS, dark-sky, Youtube API access, axios.
+	NodeJS, DiscordJS, dark-sky, Youtube API access, axios.
 
 The API keys for dark-sky, Youtube and discord can be hard coded, if you want.
 I recommend them being in a separate file. 
